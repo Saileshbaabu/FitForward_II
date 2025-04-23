@@ -1,14 +1,3 @@
-"""
-Enhanced Screen and Audio Recorder - Streamlit Version
-----------------------------------------------
-Features:
-- Start/stop recording
-- Window/tab selection
-- Interview details (saved as JSON)
-- Configurable save location
-- Enhanced UI with custom styling and logo
-"""
-
 import cv2
 import numpy as np
 import pyautogui
